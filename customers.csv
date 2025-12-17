@@ -1,0 +1,7 @@
+customer_id,customer_name,email,city,state,created_date
+1,Ravi Kumar,ravi@gmail.com,hyderabad ,ts,2024-01-10
+2,Anita Sharma,anita@gmail.com,Bangalore,ka,2024-01-15
+3,Suresh Reddy,,chennai,tn,2024-02-01
+4,Priya Singh,priya@gmail.com, Hyderabad,ts,2024-02-10
+5,Arjun Rao,arjun@gmail.com,vizag,ap,2024-03-05
+5,Arjun Rao,arjun@gmail.com,vizag,ap,2024-03-05
