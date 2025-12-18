@@ -25,3 +25,13 @@ This project demonstrates data cleaning and quality checks using SQL (MySQL).
 ## Outcome
 Clean and reliable tables ready for analytics and reporting.
 
+## Project 2: SQL Analytics
+
+Tools: SQL Server (SSMS)
+
+Description:
+Performed business analytics using SQL queries.
+- Top customers
+- Total sales
+- Monthly analysis
+
